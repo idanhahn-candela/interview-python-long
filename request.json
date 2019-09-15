@@ -1,0 +1,10 @@
+{
+  	"id": "0001",
+	"time": 1568545092,
+	"Msg": "Hello world",
+	"To": "0002",
+	"location": {
+		"lat": 35,
+		"long": 139
+	}
+}
